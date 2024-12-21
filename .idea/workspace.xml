@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2315737b-9b39-4568-895a-0d4c3e93e014" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dingcorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1st_week/01_01_find_max_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1st_week/01_02_find_max_alphabet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1st_week/01_02_find_max_alphabet_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734684383286</updated>
-      <workItem from="1734684384162" duration="8887000" />
+      <workItem from="1734684384162" duration="10614000" />
     </task>
     <servers />
   </component>
