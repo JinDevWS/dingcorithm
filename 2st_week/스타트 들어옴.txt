@@ -1,0 +1,76 @@
+스타트 들어옴
+current_index 0
+current_sum 0
+=========================
+플러스 들어옴
+    current_index 1
+    current_sum 2
+    =========================
+    플러스 들어옴
+        current_index 2
+        current_sum 5
+        =========================
+        플러스 들어옴
+            current_index 3
+            current_sum 6
+            -------- 탈출 ----------
+        플러스 끝
+        마이너스 들어옴
+            current_index 3
+            current_sum 4
+            -------- 탈출 ----------
+        마이너스 끝
+    플러스 끝
+    마이너스 들어옴
+        current_index 2
+        current_sum -1
+        =========================
+        플러스 들어옴
+            current_index 3
+            current_sum 0
+            -------- 탈출 ----------
+        플러스 끝
+        마이너스 들어옴
+            current_index 3
+            current_sum -2
+            -------- 탈출 ----------
+        마이너스 끝
+    마이너스 끝
+플러스 끝
+
+마이너스 들어옴
+    current_index 1
+    current_sum -2
+    =========================
+    플러스 들어옴
+        current_index 2
+        current_sum 1
+        =========================
+        플러스 들어옴
+            current_index 3
+            current_sum 2
+            -------- 탈출 ----------
+        플러스 끝
+        마이너스 들어옴
+            current_index 3
+            current_sum 0
+            -------- 탈출 ----------
+        마이너스 끝
+    플러스 끝
+    마이너스 들어옴
+        current_index 2
+        current_sum -5
+        =========================
+        플러스 들어옴
+            current_index 3
+            current_sum -4
+            -------- 탈출 ----------
+        플러스 끝
+        마이너스 들어옴
+            current_index 3
+            current_sum -6
+            -------- 탈출 ----------
+        마이너스 끝
+    마이너스 끝
+마이너스 끝
+[6, 4, 0, -2, 2, 0, -4, -6]
